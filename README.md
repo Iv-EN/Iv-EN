@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: evgeniy.nic.ivanov@gmail.com
+- :mailbox:Ask me about anything: evgeniy.nic.ivanov@gmail.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iv-EN&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iv-EN&theme=solarized_dark)
