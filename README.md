@@ -26,7 +26,6 @@ I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: evgeniy.nic.ivanov@gmail.com
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iv-EN)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Iv-EN" />
 </a>
