@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVuYmNzNGJ1a2o5cHU1dW5jaGdmMzZ0N3RvbWpxdjNmeTZvYXgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"     width="400"/>
   <div id="badges">
-    <a href="https://vk.com/engenivanov" target="_blank">
+    <a href="https://vk.com/engenivanov" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/%D0%92%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="В контакте Badge"/>
     </a>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
