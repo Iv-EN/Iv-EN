@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVuYmNzNGJ1a2o5cHU1dW5jaGdmMzZ0N3RvbWpxdjNmeTZvYXgxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
-    <a href="https://vk.com/engenivanov" target="_blank" rel="noopener noreferrer">
+    <a href="https://vk.com/engenivanov" target="blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/%D0%92%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white" alt="В контакте Badge"/>
     </a>
-    <a href="https://t.me/IvENauto" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/IvENauto" target="blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
     <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>--!>
