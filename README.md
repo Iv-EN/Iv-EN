@@ -15,7 +15,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lkZzM0ZjZpajFsaXV0N2JvMnZ4a3diajZzM294dnZ0aHQ4dHQ3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 </a>
 
-- 🔭  I'm not currently working as a programmer, but I really want to.
+- 🔭  I'm not working as a programmer yet, but I really want to.
   
 - 📝  I don’t write articles anywhere or participate in forums yet, but I will do so very soon.
 
