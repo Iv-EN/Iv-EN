@@ -21,10 +21,11 @@
 
 - 📄  I have very little programming experience so far. So now I’m ready to work practically for coffee.
 
-- 🌱  At the moment I am studying FastAPI and creating the core of an online store.
+- 🔬  At the moment I am studying FastAPI and creating the core of an online store.
 
 - 🤝  I’m available for freelancing.
-- 
+
+- 🧪 I like experimenting with Arduino.
 
 - 📫  For all non-urgent matters <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
 
