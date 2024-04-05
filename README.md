@@ -22,9 +22,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I'm not currently working as a programmer, but I really want to.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 At the moment I am studying FastAPI and creating the core of an online store.
 
 - 🤝 I’m available for freelancing.
 
