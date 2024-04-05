@@ -25,7 +25,7 @@
 
 - 🤝  I’m available for freelancing.
 
-- 📫  For all questions <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
+- 📫  For all non-urgent matters <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
 
 <br/>
 <h3 align="center">
@@ -44,7 +44,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  
+
+---
+
   <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</p>
 </h3>
 
