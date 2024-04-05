@@ -16,16 +16,16 @@
 </a>
 
 - 🔭  I'm not currently working as a programmer, but I really want to.
+  
+- 📝  I don’t write articles anywhere or participate in forums yet, but I will do so very soon.
+
+- 📄  I have very little programming experience so far. That's why I'm ready to work only for coffee.
 
 - 🌱  At the moment I am studying FastAPI and creating the core of an online store.
 
 - 🤝  I’m available for freelancing.
 
-- 📝  I don’t write articles anywhere or participate in forums yet, but I will do so very soon.
-
-- 📄  I have very little programming experience so far. That's why I'm ready to work only for coffee.
-
-- 📫  For all questions write letters <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
+- 📫  For all questions <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
