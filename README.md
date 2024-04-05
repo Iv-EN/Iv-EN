@@ -19,7 +19,7 @@
   
 - 📝  I don’t write articles anywhere or participate in forums yet, but I will do so very soon.
 
-- 📄  I have very little programming experience so far. That's why I'm ready to work only for coffee.
+- 📄  I have very little programming experience so far. So now I’m ready to work practically for coffee.
 
 - 🌱  At the moment I am studying FastAPI and creating the core of an online store.
 
