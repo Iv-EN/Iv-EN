@@ -13,7 +13,6 @@
     , I'm Eugene
   </h1>
   <h3>Beginner but passionate backend Python developer from Cherepovets, Russia</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+backend+Developer)](https://git.io/typing-svg)
 </div>
 </div>
 
