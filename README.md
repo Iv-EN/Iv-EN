@@ -23,7 +23,7 @@
 
 - 📝  I don’t write articles anywhere or participate in forums yet, but I will do so very soon.
 
-- 📄  I have very little programming experience so far.
+- 📄  I have very little programming experience so far. That's why I'm ready to work only for coffee.
 
 - 📫  For all questions write letters <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
 
