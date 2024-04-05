@@ -24,6 +24,7 @@
 - 🌱  At the moment I am studying FastAPI and creating the core of an online store.
 
 - 🤝  I’m available for freelancing.
+- 
 
 - 📫  For all non-urgent matters <a href="mailto:evgeniy.nic.ivanov@gmail.com">write letters </a>
 
